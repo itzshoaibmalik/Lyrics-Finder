@@ -35,15 +35,7 @@ If wanted to have any change you are most Welcome here.....
 
 
 
-*/## 🎈 Usage <a name = "usage"></a>
 
-To use the bot, you will need to [**add the bot by clicking this link**](https://discord.com/oauth2/authorize?client_id=559265456008200222&permissions=314432&scope=bot).
-
-Once done, you can display the help command by sending:
-```
-~!help
-```
-/*
 
 
 ## ✍️ Authors <a name = "authors"></a>
