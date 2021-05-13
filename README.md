@@ -31,9 +31,7 @@ If wanted to have any change you are most Welcome here.....
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 ![Simple Search](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbd3hMGkvp42yvuDCYJ-DyOZdLORIyq6pjCA&usqp=CAU)
-![Search using lyrics](#)
-![Multilingual Support Demo](#)
-![Autosearch Mode Demo](#)
+
 
 
 
